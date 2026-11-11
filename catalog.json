@@ -1,0 +1,32 @@
+{
+  "plugins": [
+    {
+      "name": "timer",
+      "display_name": "Таймер",
+      "description": "«Таймер на 5 минут» — напомнит звуком",
+      "version": "1.0.0",
+      "author": "felix",
+      "category": "Утилиты",
+      "url": "https://raw.githubusercontent.com/vecosss/felix-plugins/main/timer.py",
+      "homepage": "https://github.com/vecosss/felix-plugins/blob/main/timer.py"
+    },
+    {
+      "name": "notes",
+      "display_name": "Заметки",
+      "description": "«Запиши: купить хлеб»",
+      "version": "1.0.0",
+      "author": "felix",
+      "category": "Продуктивность",
+      "url": "https://raw.githubusercontent.com/vecosss/felix-plugins/main/notes.py"
+    },
+    {
+      "name": "volume_app",
+      "display_name": "Громкость приложений",
+      "description": "«Сделай тише Chrome»",
+      "version": "1.0.0",
+      "author": "felix",
+      "category": "Утилиты",
+      "url": "https://raw.githubusercontent.com/vecosss/felix-plugins/main/volume_app.py"
+    }
+  ]
+}
